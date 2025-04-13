@@ -1,0 +1,16 @@
+Scenario : 
+in land-based radar systems, interface from reflected signals (multipath)
+introduces nonlinear phase shifts that degrade received power. A kyy tas is to indentify angels /theta at which interfence is constructive/destructive 
+
+1. root equation : solve and explain iteration steps 
+2. Linear system : matrix form,solution methodm, interpretation 
+3. curve fitting : model,fitting,plots, R^2 
+4. create final report : Engineering insight + code appendix 
+
+Computation Tasks
+
+    Solve root equation for angle of destructive interference
+
+    Solve linear system for antenna gains
+
+    Fit a curve to received power vs angle dat
